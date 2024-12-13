@@ -28,7 +28,7 @@ I am a Robotic Software Engineer from Brazil. <img src="https://media.giphy.com/
 - :seedling: Exploring Computer Vision for robotics application.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-heronsaba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heronsaba/)
-- :zap: Freetime: Gaming, Surfing, Cinema, Chess.
+- :zap: Hobbies: Gaming, Surfing, Cinema, Chess.
 
 ---
 
